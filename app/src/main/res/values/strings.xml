@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ColorChooser</string>
+    <string name="menu_action_save">Save</string>
+    <string name="menu_action_recall">Recall</string>
+    <string name="spinner_title">Colors</string>
+</resources>
